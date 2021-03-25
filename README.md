@@ -20,5 +20,4 @@ class MyFrame(wx.Frame): # subclass of wx.Window; Frame is a top level window # 
 
 def OnInit(self):
     panel = MyPanel(parent=self)
-    
-    ![image](https://user-images.githubusercontent.com/79875834/112516395-dbdaf680-8d5c-11eb-892a-306297ca5e14.png)
+    ![image](https://user-images.githubusercontent.com/79875834/112516659-1d6ba180-8d5d-11eb-90d8-6b10e291a316.png)
